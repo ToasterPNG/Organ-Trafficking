@@ -1,5 +1,5 @@
 # Organ-Trafficking
-Source code for a game : itch link when its gonna be ready
+Source code for a game : https://toasterpng.itch.io/organ-trafficking
 
 ## Compiling
 
