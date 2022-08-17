@@ -1,0 +1,18 @@
+{
+    "Game_Data": [
+        {
+        "money": 0,
+        "organs_bought": [],
+
+        "stomach_gave": false,
+        "floor_kideny": false,
+        "liver_gave": false,
+        "started_game": false,
+
+        "tv_start_time": 0,
+        "golf_level": 1,
+
+        "key": false
+        }
+    ]
+}
