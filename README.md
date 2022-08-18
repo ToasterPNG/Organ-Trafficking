@@ -12,9 +12,13 @@ Also all of the state files in the scripts folder can be removed
 ## Librarys
    
   pip install pywin32
+  
   pip install pygame
+  
   pip install numpy 
+  
   pip install cv2
+  
   
 python 3.0 > also use "python -m " if pyinstaller isn't added
 to your path.
