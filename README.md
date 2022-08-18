@@ -9,7 +9,7 @@ With pyinstaller 5.0.1 run this command :  "pip install pyinstaller==5.0.1"
   
 Also all of the state files in the scripts folder can be removed
 
-Librarys : 
+##Librarys : 
    
   pip install pywin32
   pip install pygame
