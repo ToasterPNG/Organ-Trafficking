@@ -20,5 +20,6 @@ Also all of the state files in the scripts folder can be removed
   pip install cv2
   
   
+  
 python 3.0 > also use "python -m " if pyinstaller isn't added
 to your path.
